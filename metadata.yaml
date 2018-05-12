@@ -1,0 +1,36 @@
+_repo: General-Science_16593
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Bertha May
+    birthdate: 1880
+    gutenberg_agent_id: '6809'
+    url: http://www.gutenberg.org/2009/agents/6809
+description: ''
+gutenberg_issued: '2005-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16593'
+  lccn: '12009543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science'
+tableOfContents: Heat -- Temperature and heat -- Other facts about heat -- Burning
+  or oxidation -- Food -- Water -- Air -- General properties of gases -- Invisible
+  objects -- Light -- Refraction -- Photography -- Color -- Heat and light as companions
+  -- Artificial lighting -- Man's way of helping himself -- The power behind the engine
+  -- Pumps and their value to man -- The water problem of a large city -- Man's conquest
+  of substances -- Fermentation -- Bleaching -- Dyeing -- Chemicals as disinfectants
+  and preservatives -- Drugs and patent medicines -- Nitrogen and its relation to
+  plants -- Sound -- Musical instruments -- Speaking and hearing -- Electricity --
+  Some uses of electricity -- Modern electrical inventions -- Magnets and currents
+  -- How electricity may be measured -- How electricity is obtained on a large scale.
+title: General Science
+url: http://www.gutenberg.org/ebooks/16593
