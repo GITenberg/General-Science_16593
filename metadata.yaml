@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Science'
+- GITenberg
 tableOfContents: Heat -- Temperature and heat -- Other facts about heat -- Burning
   or oxidation -- Food -- Water -- Air -- General properties of gases -- Invisible
   objects -- Light -- Refraction -- Photography -- Color -- Heat and light as companions
